@@ -5,13 +5,14 @@ This is an simple project for an inexpensive power supply bank capable of poweri
 
 
 ## Specifications
-![package-inside](tank-you-inside.jpg)
 
 ### Features
 - 12-15V AC/DC power plug for external input power supply
 - Input with polarity test (with a led indicating polarity reversal)
 - Chain power-plug for a second device
 - 4 isolated and stabilized 9V-100mA center-negative output (common ground)
+
+![package-inside](tank-you-inside.jpg)
 
 ### Hardware
 Schematics and PCB layouts are designed with ExpressPCB free CAD software.
