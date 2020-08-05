@@ -2,11 +2,11 @@
 This is an simple project for an inexpensive power supply bank capable of powering small household devices.
 My usage of this project is to power audio effect pedals.
 
-![tank-you.jpg](images/tank-you.jpg)
+![tank-you.jpg](tank-you.jpg)
 
 ## Specifications
-![package-inside](hardware/tank-you-inside.jpg)
-![usage](hardware/tank-you-onstage.jpg)
+![package-inside](tank-you-inside.jpg)
+![usage](tank-you-onstage.jpg)
 
 ### Features
 - 12-15V AC/DC power plug for external input power supply
