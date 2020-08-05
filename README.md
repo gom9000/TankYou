@@ -1,12 +1,11 @@
 # TankYou
 This is an simple project for an inexpensive power supply bank capable of powering small household devices.
-My usage of this project is to power audio effect pedals.
 
 ![tank-you.jpg](tank-you.jpg)
 
+
 ## Specifications
 ![package-inside](tank-you-inside.jpg)
-![usage](tank-you-onstage.jpg)
 
 ### Features
 - 12-15V AC/DC power plug for external input power supply
@@ -22,6 +21,12 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 
 #### PCB Layout:
 ![board-pcb](hardware/tank-you_pcb.jpg)
+
+
+## Usage
+My usage of this project is to power audio effect pedals.
+
+![usage](tank-you-onstage.jpg)
 
 
 ## About
