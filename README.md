@@ -1,5 +1,6 @@
 # TankYou
 This is an simple project for a 4-lines power supply bank capable of powering small household devices.
+This project fits exactly into a KH-6 package.
 
 ![tank-you.jpg](tank-you.jpg)
 
@@ -7,7 +8,7 @@ This is an simple project for a 4-lines power supply bank capable of powering sm
 ## Specifications
 
 ### Features
-- 12-15V AC/DC power plug for external input power supply
+- 12-15V AC/DC power plug for external input power supply (center-negative)
 - Input with polarity test (with a led indicating polarity reversal)
 - Chain power-plug for a second device
 - 4 isolated and stabilized 9V-100mA center-negative output (common ground)
