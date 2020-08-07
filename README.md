@@ -1,5 +1,5 @@
 # TankYou
-This is an simple project for an inexpensive power supply bank capable of powering small household devices.
+This is an simple project for a 4-lines power supply bank capable of powering small household devices.
 
 ![tank-you.jpg](tank-you.jpg)
 
